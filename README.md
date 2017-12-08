@@ -1,5 +1,7 @@
 # Stundenblog-Snap-Projekte
 
+Anleitung: http://bjc.berkeley.edu/website/curriculum.html
+
 1. Dezember.2017
 
 Während der letzten Stunden haben wir überlegt, was wir gerne als nächstes Projekt angehen wollten. Das Arbeiten mit dem Onlinekurs BJC hat uns zwar Spaß gemacht und den Umgang mit den Blöcken geschult, allerdings waren uns die Arbeitsschritte manchmal zu kurzschrittig. Grundsätzlich wollten wir gerne etwas eigenes Programmieren.
