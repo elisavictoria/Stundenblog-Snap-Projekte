@@ -10,6 +10,8 @@ Anleitung: http://bjc.berkeley.edu/website/curriculum.html
 
 # 15. Dezember 2017<a name="drei"></a>
 
+In der nächsten Lektion haben wir gelernt, wie Listen funktionieren.
+
 ![3](https://user-images.githubusercontent.com/31760498/34034735-fa109efc-e17f-11e7-9ffd-a612c7a00aa4.png)
 
 
