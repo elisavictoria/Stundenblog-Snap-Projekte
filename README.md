@@ -2,18 +2,13 @@
 
 [1. Dezember 2017](#eins)
 
-[2. Stunde](#zwei)
-
 
 Anleitung: http://bjc.berkeley.edu/website/curriculum.html
 
-# 2. Stunde<a name="zwei"></a>
 
 15. Dezember 2017
 
 ![3](https://user-images.githubusercontent.com/31760498/34034735-fa109efc-e17f-11e7-9ffd-a612c7a00aa4.png)
-
-# 1. Stunde<a name="eins"></a>
 
 8. Dezember 2017
 
