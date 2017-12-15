@@ -2,6 +2,10 @@
 
 Anleitung: http://bjc.berkeley.edu/website/curriculum.html
 
+15. Dezember 2017
+
+![3](https://user-images.githubusercontent.com/31760498/34034735-fa109efc-e17f-11e7-9ffd-a612c7a00aa4.png)
+
 8. Dezember 2017
 
 In diesen Informatikstunden haben wir uns mit dem „Number Guessing Game“ beschäftigt und das Spiel programmiert. Es geht darum, dass der Computer sich eine zufällige Zahl zwischen 1 und 10 aussucht und der Spieler diese „secret number“ erraten soll. 
