@@ -1,6 +1,6 @@
 # Stundenblog-Snap-Projekt
 
-[1. Stunde](#eins)
+[1. Dezember 2017](#eins)
 
 [2. Stunde](#zwei)
 
@@ -23,7 +23,7 @@ Am Ende haben wir eine globale Variable in Form einer „player list“ eingefü
 
 ![2](https://user-images.githubusercontent.com/31760498/34032829-ff0e78fa-e177-11e7-8abb-7550ca71761c.png)
 
-1. Dezember 2017
+#1. Dezember 2017<a name="eins"></a>
 
 Während der letzten Stunden haben wir überlegt, was wir gerne als nächstes Projekt angehen wollten. Das Arbeiten mit dem Onlinekurs BJC hat uns zwar Spaß gemacht und den Umgang mit den Blöcken geschult, allerdings waren uns die Arbeitsschritte manchmal zu kurzschrittig. Grundsätzlich wollten wir gerne etwas eigenes Programmieren.
 Sie hatten uns auf den kleinen Computer Arduino hingewiesen mit dem nach Ihrer Aussage einige tolle Projekte auch für uns Einsteiger möglich waren. Nachdem wir uns im Internet informiert hatten, überlegten wir, ob wir uns der Aufgabe gewachsen sahen, da diese Art des Programmierens sehr eng mit Elektronik verbunden ist und wir uns ein komplett neues Gebiet aneignen müssten. 
