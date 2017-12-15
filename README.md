@@ -1,7 +1,9 @@
 # Stundenblog-Snap-Projekt
 
 [15. Dezember 2017](#drei)
+
 [8. Dezember 2017](#zwei)
+
 [1. Dezember 2017](#eins)
 
 Anleitung: http://bjc.berkeley.edu/website/curriculum.html
