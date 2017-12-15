@@ -1,22 +1,24 @@
 # Stundenblog-Snap-Projekt
 
+[15. Dezember 2017](#drei)
+[8. Dezember 2017](#zwei)
 [1. Dezember 2017](#eins)
-
 
 Anleitung: http://bjc.berkeley.edu/website/curriculum.html
 
-
-15. Dezember 2017
+# 15. Dezember 2017<a name="drei"></a>
 
 ![3](https://user-images.githubusercontent.com/31760498/34034735-fa109efc-e17f-11e7-9ffd-a612c7a00aa4.png)
 
-8. Dezember 2017
+
+# 8. Dezember 2017<a name="zwei"></a>
 
 In diesen Informatikstunden haben wir uns mit dem „Number Guessing Game“ beschäftigt und das Spiel programmiert. Es geht darum, dass der Computer sich eine zufällige Zahl zwischen 1 und 10 aussucht und der Spieler diese „secret number“ erraten soll. 
 Um das Spiel zu programmieren haben wir eine „script variable“ benötigt, so dass bei jedem Spiel eine andere Zahl zu erraten ist. Nachdem sich der Computer eine Zahl ausgesucht hat, fragt er den Spieler nach der geheimen Zahl. Der „repeat until-Block“ sorgt dafür, dass der Computer so lange nachfragt, bis die richtige Zahl erraten wurde. Außerdem antwortet der Computer, ob die eingegebene Zahl zu groß oder zu klein ist. Dafür wurden „if-Blöcke“ eingefügt. Als letztes haben wir programmiert, dass die Hexe ihr Kostüm wechselt und dem Spieler gratuliert, wenn man die richtige Zahl erraten hat.
 Am Ende haben wir eine globale Variable in Form einer „player list“ eingefügt. Insbesondere haben wir bei dieser Lektion den Unterschied zwischen einer globalen und einer script Variablen gelernt.
 
 ![2](https://user-images.githubusercontent.com/31760498/34032829-ff0e78fa-e177-11e7-8abb-7550ca71761c.png)
+
 
 # 1. Dezember 2017<a name="eins"></a>
 
