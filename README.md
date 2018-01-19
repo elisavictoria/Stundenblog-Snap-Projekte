@@ -10,7 +10,9 @@
 
 
 Anleitung: http://bjc.berkeley.edu/website/curriculum.html
+
 # 17. Januar 2018<a name="vier"></a>
+
 
 
 # 15. Dezember 2017<a name="drei"></a>
@@ -19,6 +21,7 @@ In der nächsten Lektion haben wir gelernt, wie Listen funktionieren. Wir hatten
 
 ![3](https://user-images.githubusercontent.com/31760498/34034735-fa109efc-e17f-11e7-9ffd-a612c7a00aa4.png)
 
+Draw Shape: http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=U2L2-DrawShape
 
 # 8. Dezember 2017<a name="zwei"></a>
 
@@ -28,7 +31,7 @@ Am Ende haben wir eine globale Variable in Form einer „player list“ eingefü
 
 ![2](https://user-images.githubusercontent.com/31760498/34032829-ff0e78fa-e177-11e7-8abb-7550ca71761c.png)
 
-Number Guessing game: http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=U2L1-NumberGuessing
+Number Guessing Game: http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=U2L1-NumberGuessing
 
 
 # 1. Dezember 2017<a name="eins"></a>
