@@ -19,7 +19,7 @@ Anleitung: http://bjc.berkeley.edu/website/curriculum.html
 
 # 17. Januar 2018<a name="vier"></a>
 
-Die nächste Lektion erforderte Kenntnisse über Predicates, die auf der Website definiert wurden. Predicate Blöcke sind reporter Blöcke, die auf sogenannte Boolean values antworten. 
+Die nächste Lektion erforderte Kenntnisse über Predicates, die auf der Website definiert wurden. Predicate Blöcke sind reporter Blöcke, die auf sogenannte Boolean values antworten. Unsere Aufgabe war es eine imaginäre horizontale Grenze zu schaffen, um mit dem Pfeil nach Überschreiten der Grenze in einer anderen Farbe weiter zu schreiben. 
 
 ![4](https://user-images.githubusercontent.com/31760498/35143249-4d549914-fd01-11e7-8e13-fbb15ac0cb52.png)
 
