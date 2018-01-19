@@ -1,5 +1,7 @@
 # Stundenblog-Snap-Projekt
 
+[19. Januar 2018](#fünf)
+
 [17. Januar 2018](#vier)
 
 [15. Dezember 2017](#drei)
@@ -11,9 +13,13 @@
 
 Anleitung: http://bjc.berkeley.edu/website/curriculum.html
 
+# 19. Januar 2018<a name="fünf"></a>
+
+
+
 # 17. Januar 2018<a name="vier"></a>
 
-
+Die nächste Lektion erforderte Kenntnisse über Predicates, die auf der Website definiert wurden. Predicate Blöcke sind reporter Blöcke, die auf sogenannte Boolean values antworten. 
 
 ![4](https://user-images.githubusercontent.com/31760498/35143249-4d549914-fd01-11e7-8e13-fbb15ac0cb52.png)
 
