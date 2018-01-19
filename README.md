@@ -1,5 +1,7 @@
 # Stundenblog-Snap-Projekt
 
+[17. Januar 2018](#vier)
+
 [15. Dezember 2017](#drei)
 
 [8. Dezember 2017](#zwei)
@@ -8,10 +10,12 @@
 
 
 Anleitung: http://bjc.berkeley.edu/website/curriculum.html
+# 17. Januar 2018<a name="vier"></a>
+
 
 # 15. Dezember 2017<a name="drei"></a>
 
-In der nächsten Lektion haben wir gelernt, wie Listen funktionieren.
+In der nächsten Lektion haben wir gelernt, wie Listen funktionieren. Wir hatten die Aufgabe den Pfeil ein A zeichnen zu lassen. Er sollte hierfür die in der Liste eingetragenen Koordinaten in einer chronologischen Reihenfolge ablaufen. Dazu haben wir eine globale Variabel "item" erstellt, damit die Punkte von A hintereinander abgerufen werden können. Dadurch mussten wir nicht jeden einzelnen Punkt programmieren. 
 
 ![3](https://user-images.githubusercontent.com/31760498/34034735-fa109efc-e17f-11e7-9ffd-a612c7a00aa4.png)
 
