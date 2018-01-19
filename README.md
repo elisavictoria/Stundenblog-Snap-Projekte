@@ -15,6 +15,8 @@ Anleitung: http://bjc.berkeley.edu/website/curriculum.html
 
 
 
+![4](https://user-images.githubusercontent.com/31760498/35143249-4d549914-fd01-11e7-8e13-fbb15ac0cb52.png)
+
 Predicates: http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=U2L3-Predicates
 
 # 15. Dezember 2017<a name="drei"></a>
