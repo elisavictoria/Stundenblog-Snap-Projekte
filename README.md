@@ -15,6 +15,8 @@ Anleitung: http://bjc.berkeley.edu/website/curriculum.html
 
 
 
+Predicates: http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=U2L3-Predicates
+
 # 15. Dezember 2017<a name="drei"></a>
 
 In der nächsten Lektion haben wir gelernt, wie Listen funktionieren. Wir hatten die Aufgabe den Pfeil ein A zeichnen zu lassen. Er sollte hierfür die in der Liste eingetragenen Koordinaten in einer chronologischen Reihenfolge ablaufen. Dazu haben wir eine globale Variabel "item" erstellt, damit die Punkte von A hintereinander abgerufen werden können. Dadurch mussten wir nicht jeden einzelnen Punkt programmieren. 
