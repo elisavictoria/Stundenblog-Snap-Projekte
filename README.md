@@ -21,6 +21,8 @@ Anleitung: http://bjc.berkeley.edu/website/curriculum.html
 
 # 19. Januar 2018<a name="fünf"></a>
 
+In dieser Stunde fingen wir an unser Projekt zu programmieren, welches wir am Ende dieser Arbeitsphase einreichen wollen. Wir haben uns im Internet einge Beispielprojekte angeguckt und hatten Lust SpaceShip zu programmieren. Als Erstes mussten wir das Raumschiff einfügen und die Beweglichkeit programmieren. 
+
 
 
 # 17. Januar 2018<a name="vier"></a>
