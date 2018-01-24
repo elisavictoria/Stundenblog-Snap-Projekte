@@ -1,5 +1,7 @@
 # Stundenblog-Snap-Projekt
 
+[24. Januar 2018](#sechs)
+
 [19. Januar 2018](#fünf)
 
 [17. Januar 2018](#vier)
@@ -12,6 +14,10 @@
 
 
 Anleitung: http://bjc.berkeley.edu/website/curriculum.html
+
+# 24. Januar 2018<a name="sechs"></a>
+
+
 
 # 19. Januar 2018<a name="fünf"></a>
 
