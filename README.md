@@ -17,7 +17,7 @@ Anleitung: http://bjc.berkeley.edu/website/curriculum.html
 
 # 24. Januar 2018<a name="sechs"></a>
 
-
+Als wir heute den Computer anmachten und das angefangene Projekt der letzten Stunde suchten, stellten wir leider fest, dass wir es vergessen hatten abzuspeichern. Das Script der letzten Stunde in der wir angefangen haben unser Spiel zu programmieren, war vollständig weg, sodass wir uns entschieden haben weiter an unserer Dokumentation, dass heißt am Stundenblog und unserem Projektblog, zu arbeiten. Der nächste Freitag bietet uns durch die Doppelstunde die Möglichkeit länger und dadurch vertiefter in das Programmieren unseres Spiels einzusteigen. 
 
 # 19. Januar 2018<a name="fünf"></a>
 
