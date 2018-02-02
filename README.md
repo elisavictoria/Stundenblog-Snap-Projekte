@@ -19,7 +19,9 @@ Anleitung: http://bjc.berkeley.edu/website/curriculum.html
 
 # 31. Januar 2018<a name="sieben"></a>
 
-Heute hatten wir dank einer Freistunde sogar zwei Stunden Zeit, unsere von der letzten Stunde gelöschte Arbeit wieder aufzuarbeiten. 
+Heute hatten wir dank einer Freistunde sogar zwei Stunden Zeit, unsere von der letzten Stunde gelöschte Arbeit wieder aufzuarbeiten.
+Wir haben es geschafft unser Spiel in eine Grundform zu bringen, in die man jedoch noch Änderungen einfügen kann, die das Spielerlebnis eventuell spannender und lustiger machen. Diese Möglichkeit wollten wir uns allerdings offen lassen, da wir zunächst unseren Projektblog fertig stellen wollten, damit Sie unsere Arbeit und das von uns nach dieser Lektion Gelernernte nachvollziehen können.
+
 # 24. Januar 2018<a name="sechs"></a>
 
 Als wir heute den Computer anmachten und das angefangene Projekt der letzten Stunde suchten, stellten wir leider fest, dass wir es vergessen hatten abzuspeichern. Das Script der letzten Stunde in der wir angefangen haben unser Spiel zu programmieren, war vollständig weg, sodass wir uns entschieden haben weiter an unserer Dokumentation, dass heißt am Stundenblog und unserem Projektblog, zu arbeiten. Der nächste Freitag bietet uns durch die Doppelstunde die Möglichkeit länger und dadurch vertiefter in das Programmieren unseres Spiels einzusteigen. 
