@@ -25,7 +25,8 @@ Anleitung: http://bjc.berkeley.edu/website/curriculum.html
 
 # 16. Februar 2018<a name="acht"></a>
 
-Um das Spiel zu erschweren, sollten die Aliens mit Laserbällen auf das SpaceShip schießen, welches durch Berührung mit einem der Bälle kaputt geht. Damit das SpaceShip den Aliens nicht komplett ausgeliefert ist, fügten wir drei Schutzbarrikaden ein, hinter denen das SpaceShip sicher vor den Angriffen ist. Der Laser sollte sich genau wie beim SpaceShip am Anfang des Spiels hinter den Aliens verstecken. Allerdings sollten die Laser in einem bestimmten Rhythmus nach unten schießen und nicht auf Tastenbefehl. Die Schwierigkeit bestand zunächst darin, den Laserbällen die Anweisung zu geben, dass sie immer wieder zurück zum Alien sollen, damit dieser erneut sie erneut nach unten losschicken kann. 
+Um das Spiel zu erschweren, sollten die Aliens mit Laserbällen auf das SpaceShip schießen, welches durch Berührung mit einem der Bälle kaputt geht. Damit das SpaceShip den Aliens nicht komplett ausgeliefert ist, fügten wir drei Schutzbarrikaden ein, hinter denen das SpaceShip sicher vor den Angriffen ist. Der Laser sollte sich genau wie beim SpaceShip am Anfang des Spiels hinter den Aliens verstecken. Allerdings sollten die Laser in einem bestimmten Rhythmus nach unten schießen und nicht auf Tastenbefehl. Die Schwierigkeit bestand zunächst darin, den Laserbällen die Anweisung zu geben, dass sie immer wieder zurück zum Alien sollen, damit dieser erneut sie erneut nach unten losschicken kann.
+Außerdem mussten wir im Falle eines Treffen des SpaceShips das GameOver Schild erscheinen lassen.
 
 # 31. Januar 2018<a name="sieben"></a>
 
