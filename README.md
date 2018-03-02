@@ -32,6 +32,8 @@ In den heutigen Informatikstunden mussten wir zunächst einige Eintragungen für
 
 In dieser Stunde haben wir versucht einen Bug zu finden. Die Kommunikation der Blöcke untereinander hat aus irgendwelchen unerklärlichen Gründen nicht funktioniert. Das Spiel soll zu ende sein, sobald der Hund die grüne Linie berührt. Wir vermuten, dass der Hund durch das Ziehen der Linie diese schon dauerhaft berührt. Eventuell wird die Kommunikation der Blöcke dadurch eingeschränkt. Den genauen Fehler müssen wir aber noch herausfinden.
 
+![1](https://user-images.githubusercontent.com/31760549/36891511-30338198-1e02-11e8-847a-9ce79f1090cb.png)
+
 # 23. Februar 2018<a name="zehn"></a>
 
 Heute haben wir damit angefangen ein neues Spiel zu programmieren. Das neue Spiel sollte durch Broadcast Blöcke auf ein höheres Niveau gehoben werden. Außerdem wollten wir unsere Programmierfähigkeiten erweitern. Nach Ihrer Aussage ermöglicht uns das Kommmunizieren der Blöcke untereinander mehr Spielraum für neue Ideen, die auf eine interesasantere Art umgesetzt werden können.
