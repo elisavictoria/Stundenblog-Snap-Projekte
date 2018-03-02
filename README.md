@@ -1,5 +1,7 @@
 # Stundenblog-Snap-Projekt
 
+[2. März 2018](#zwölf)
+
 [1. März 2018](#elf)
 
 [23. Februar 2018](#zehn)
@@ -22,7 +24,13 @@
 
 [1. Dezember 2017](#eins)
 
+# 2. März 2018<a name="zwölf"></a>
+
+In den heutigen Informatikstunden mussten wir zunächst einige Eintragungen für die vergangenen Tage in dem Stundenblog machen. Danach haben wir uns weiter damit beschäftigt den Bug zu suchen und zu beheben. 
+
 # 1. März 2018<a name="elf"></a>
+
+In dieser Stunde haben wir versucht einen Bug zu finden. Die Kommunikation der Blöcke untereinander hat aus irgendwelchen unerklärlichen Gründen nicht funktioniert. Das Spiel soll zu ende sein, sobald der Hund die grüne Linie berührt. Wir vermuten, dass der Hund durch das Ziehen der Linie diese schon dauerhaft berührt. Eventuell wird die Kommunikation der Blöcke dadurch eingeschränkt. Den genauen Fehler müssen wir aber noch herausfinden.
 
 # 23. Februar 2018<a name="zehn"></a>
 
