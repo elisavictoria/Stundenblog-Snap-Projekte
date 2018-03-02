@@ -24,11 +24,12 @@
 
 # 23. Februar 2018<a name="zehn"></a>
 
-Heute haben wir damit angefangen ein neues Spiel zu programmieren. Es heißt Catch the bone und ist relativ einfach aufgebaut. In dem Spiel muss ein Hund bestimmte Items wie zum Beispiel einen Knochen fangen. Der Hund wird von dem Spieler durch die Pfeiltasten gesteuert. Dabei hinterlässt der Hund eine farbige Linie auf dem Weg den er hinter sich gebracht hat. Der Spieler hat das Spiel verloren, wenn er die Linie berührt. Das heißt du musst im Voraus überlegen welcher Weg taktisch am klügsten ist und platzsparend arbeiten. 
+Heute haben wir damit angefangen ein neues Spiel zu programmieren. Das neue Spiel Es heißt Catch the bone und ist relativ einfach aufgebaut. In dem Spiel muss ein Hund bestimmte Items wie zum Beispiel einen Knochen fangen. Der Hund wird von dem Spieler durch die Pfeiltasten gesteuert. Dabei hinterlässt der Hund eine farbige Linie auf dem Weg den er hinter sich gebracht hat. Der Spieler hat das Spiel verloren, wenn er die Linie berührt. Das heißt du musst im Voraus überlegen welcher Weg taktisch am klügsten ist und platzsparend arbeiten. 
 
 # 22. Februar 2018<a name="neun"></a>
 
-In dieser Stunde haben wir versucht unser SpaceShip Spiel abzuschließen. Wir hatten noch einige Bugs in unserem Script und wollten diese finden und beheben. Ein Fehler war das GameOver Schild, welches immer falsch herum erschien. 
+In dieser Stunde haben wir versucht unser SpaceShip Spiel abzuschließen. Wir hatten noch einige Bugs in unserem Script und wollten diese finden und beheben. Ein Fehler war das GameOver Schild, welches immer falsch herum erschien. Mit Ihrer Hilfe haben wir herausgefunden, dass der Fehler mit der Bewegung der Laser zusammenhängt. Die Bälle haben sich durch einen Turn 180 degrees Block bei wiederholtem abwerfen der Aliens gedreht. Dadurch das die Bälle rund sind haben wir diesen Fehler nicht entdeckt. Das GameOver Schild haben wir als ein costume vom Ball erscheinen lassen, weshalb es die gedrehte Position des Balls übernommen hat. Leider konnten wir den Fehler nicht beheben und haben aufgegeben :( !!!
+Das Spiel hat zunehmend unsere Nerven beansprucht und man muss ja auch wissen wann's genug ist :D !
 
 # 16. Februar 2018<a name="acht"></a>
 
