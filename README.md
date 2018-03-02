@@ -1,5 +1,7 @@
 # Stundenblog-Snap-Projekt
 
+[23. Februar 2018](#zehn)
+
 [22. Februar 2018](#neun)
 
 [16. Februar 2018](#acht)
@@ -19,11 +21,14 @@
 [1. Dezember 2017](#eins)
 
 
-Anleitung: http://bjc.berkeley.edu/website/curriculum.html
+
+# 23. Februar 2018<a name="zehn"></a>
+
+Heute haben wir damit angefangen ein neues Spiel zu programmieren. Es heißt Catch the bone und ist relativ einfach aufgebaut. In dem Spiel muss ein Hund bestimmte Items wie zum Beispiel einen Knochen fangen. Der Hund wird von dem Spieler durch die Pfeiltasten gesteuert. Dabei hinterlässt der Hund eine farbige Linie auf dem Weg den er hinter sich gebracht hat. Der Spieler hat das Spiel verloren, wenn er die Linie berührt. Das heißt du musst im Voraus überlegen welcher Weg taktisch am klügsten ist und platzsparend arbeiten. 
 
 # 22. Februar 2018<a name="neun"></a>
 
-In dieser Stunde haben 
+In dieser Stunde haben wir versucht unser SpaceShip Spiel abzuschließen. Wir hatten noch einige Bugs in unserem Script und wollten diese finden und beheben. Ein Fehler war das GameOver Schild, welches immer falsch herum erschien. 
 
 # 16. Februar 2018<a name="acht"></a>
 
