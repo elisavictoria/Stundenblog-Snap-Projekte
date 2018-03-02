@@ -42,6 +42,8 @@ Das Spiel heißt "Catch the bone" und ist relativ einfach aufgebaut. In dem Spie
 In dieser Stunde haben wir versucht unser SpaceShip Spiel abzuschließen. Wir hatten noch einige Bugs in unserem Script und wollten diese finden und beheben. Ein Fehler war das GameOver Schild, welches immer falsch herum erschien. Mit Ihrer Hilfe haben wir herausgefunden, dass der Fehler mit der Bewegung der Laser zusammenhängt. Die Bälle haben sich durch einen Turn 180 degrees Block bei wiederholtem abwerfen der Aliens gedreht. Dadurch das die Bälle rund sind haben wir diesen Fehler nicht entdeckt. Das GameOver Schild haben wir als ein costume vom Ball erscheinen lassen, weshalb es die gedrehte Position des Balls übernommen hat. Leider konnten wir den Fehler nicht beheben und haben aufgegeben :( !!!
 Das Spiel hat zunehmend unsere Nerven beansprucht und man muss ja auch wissen wann's genug ist :D !
 
+![12](https://user-images.githubusercontent.com/31760549/36891421-dfcd70f6-1e01-11e8-873f-1a01bd849ee8.png)
+
 # 16. Februar 2018<a name="acht"></a>
 
 Um das Spiel zu erschweren, sollten die Aliens mit Laserbällen auf das SpaceShip schießen, welches durch Berührung mit einem der Bälle kaputt geht. Damit das SpaceShip den Aliens nicht komplett ausgeliefert ist, fügten wir drei Schutzbarrikaden ein, hinter denen das SpaceShip sicher vor den Angriffen ist. Der Laser sollte sich genau wie beim SpaceShip am Anfang des Spiels hinter den Aliens verstecken. Allerdings sollten die Laser in einem bestimmten Rhythmus nach unten schießen und nicht auf Tastenbefehl. Die Schwierigkeit bestand zunächst darin, den Laserbällen die Anweisung zu geben, dass sie immer wieder zurück zum Alien sollen, damit dieser erneut sie erneut nach unten losschicken kann.
