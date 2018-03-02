@@ -24,7 +24,8 @@
 
 # 23. Februar 2018<a name="zehn"></a>
 
-Heute haben wir damit angefangen ein neues Spiel zu programmieren. Das neue Spiel Es heißt Catch the bone und ist relativ einfach aufgebaut. In dem Spiel muss ein Hund bestimmte Items wie zum Beispiel einen Knochen fangen. Der Hund wird von dem Spieler durch die Pfeiltasten gesteuert. Dabei hinterlässt der Hund eine farbige Linie auf dem Weg den er hinter sich gebracht hat. Der Spieler hat das Spiel verloren, wenn er die Linie berührt. Das heißt du musst im Voraus überlegen welcher Weg taktisch am klügsten ist und platzsparend arbeiten. 
+Heute haben wir damit angefangen ein neues Spiel zu programmieren. Das neue Spiel sollte durch Broadcast Blöcke auf ein höheres Niveau gehoben werden. Außerdem wollten wir unsere Programmierfähigkeiten erweitern. Nach Ihrer Aussage ermöglicht uns das Kommmunizieren der Blöcke untereinander mehr Spielraum für neue Ideen, die auf eine interesasantere Art umgesetzt werden können.
+Das Spiel heißt "Catch the bone" und ist relativ einfach aufgebaut. In dem Spiel muss ein Hund bestimmte Items, wie zum Beispiel einen Knochen fangen. Der Hund wird von dem Spieler durch die Pfeiltasten gesteuert. Dabei hinterlässt der Hund eine farbige Linie auf dem Weg, den er hinter sich gebracht hat. Der Spieler hat das Spiel verloren, wenn er die Linie berührt. Das heißt du musst im Voraus überlegen welcher Weg taktisch am klügsten ist und platzsparend arbeiten. 
 
 # 22. Februar 2018<a name="neun"></a>
 
