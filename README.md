@@ -28,8 +28,9 @@
 
 # 3.-23. März 2018<a name="dreizehn"></a>
 
-In der Zeit in der wir keinen Informatikunterricht hatten, haben wir einige Stunden in der Schule, aber auch zu Hause versucht, den Fehler unseres Spiels zu beheben. Letztendlich wissen wir genau worin der Fehler besteht, wir haben aber keine Ahnung wie wir ihn beheben sollen. Die Zeit wäre zu knapp, um ein komplett neues Projekt zu starten. Daher haben wir uns entschieden, das halbfertige Spiel abzugeben. Bestimmt hätten wir mit Ihrer weiteren Unterstützung in den Stunden eine Lösung finden können. Die 
+In der Zeit in der wir keinen Informatikunterricht hatten, haben wir einige Stunden in der Schule, aber auch zu Hause versucht, den Fehler unseres Spiels zu beheben. Letztendlich wissen wir genau worin der Fehler besteht, wir haben aber keine Ahnung wie wir ihn beheben sollen. Die Zeit wäre zu knapp, um ein komplett neues Projekt zu starten. Daher haben wir uns entschieden, das halbfertige Spiel abzugeben. Bestimmt hätten wir mit Ihrer weiteren Unterstützung in den Stunden eine Lösung finden können. Die vollständige Erklärung der Funktionsweise des Spiels und des Fehlers, finden Sie auf unserer Projektseite. 
 
+Projektblog Catch the Bone: https://github.com/elisavictoria/Projektblog-Catch-the-bone/blob/master/README.md
 
 # 2. März 2018<a name="zwölf"></a>
 
