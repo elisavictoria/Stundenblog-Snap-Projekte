@@ -1,5 +1,7 @@
 # Stundenblog-Snap-Projekt
 
+[3.-23. März 2018](#dreizehn)
+
 [2. März 2018](#zwölf)
 
 [1. März 2018](#elf)
@@ -23,6 +25,11 @@
 [8. Dezember 2017](#zwei)
 
 [1. Dezember 2017](#eins)
+
+# 3.-23. März 2018<a name="dreizehn"></a>
+
+In der Zeit in der wir keinen Informatikunterricht hatten, haben wir einige Stunden in der Schule, aber auch zu Hause versucht, den Fehler unseres Spiels zu beheben. Letztendlich wissen wir genau worin der Fehler besteht, wir haben aber keine Ahnung wie wir ihn beheben sollen. Die Zeit wäre zu knapp, um ein komplett neues Projekt zu starten. Daher haben wir uns entschieden, das halbfertige Spiel abzugeben. Bestimmt hätten wir mit Ihrer weiteren Unterstützung in den Stunden eine Lösung finden können. Die 
+
 
 # 2. März 2018<a name="zwölf"></a>
 
